@@ -1,0 +1,234 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portafolioweb.com" resolutions="1x" timestamp="1531258887065">
+  <folder name="css">
+    <file name="site_global.css" crc="4289353482"/>
+    <file name="master_a-p_g_-maestra.css" crc="3808425339" ref="about-me:advertising:design:contact:index:portafolio:branding:digital-campaign"/>
+    <file name="about-me.css" crc="4032663679" ref="about-me"/>
+    <file name="advertising.css" crc="4173834444" ref="advertising"/>
+    <file name="design.css" crc="134751255" ref="design"/>
+    <file name="contact.css" crc="122595760" ref="contact"/>
+    <file name="index.css" crc="3908046319" ref="index"/>
+    <file name="portafolio.css" crc="53802993" ref="portafolio"/>
+    <file name="branding.css" crc="151600076" ref="branding"/>
+    <file name="digital-campaign.css" crc="4182363835" ref="digital-campaign"/>
+  </folder>
+  <folder name="fonts">
+    <file name="comfortaa-bold-webfont.woff" crc="4162607849"/>
+    <file name="comfortaa-bold-webfont.eot" crc="3981340520"/>
+    <file name="comfortaa-bold-webfont.svg" crc="4000626325"/>
+    <file name="comfortaa-regular-webfont.woff" crc="313182761"/>
+    <file name="comfortaa-regular-webfont.eot" crc="4137757483"/>
+    <file name="comfortaa-regular-webfont.svg" crc="3957142828"/>
+    <file name="comfortaa-light-webfont.woff" crc="3805289245"/>
+    <file name="comfortaa-light-webfont.eot" crc="446603274"/>
+    <file name="comfortaa-light-webfont.svg" crc="528704800"/>
+  </folder>
+  <folder name="assets">
+    <file name="cv-mariana-berrocal-dongo-(2018).pdf" crc="3909363311" seo="true" mt="1529785912000"/>
+    <file name="2.jpg" crc="4167822246" seo="true" mt="1530651002000"/>
+    <file name="portafolio5.pdf" crc="317223261" seo="true" mt="1531253538000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-me:portafolio:contact:advertising:branding:digital-campaign:design"/>
+    <file name="museutils.js" crc="340535759" ref="index:about-me:portafolio:contact:advertising:branding:digital-campaign:design"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-me:portafolio:contact:advertising:branding:digital-campaign:design"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:about-me:portafolio:contact:advertising:branding:digital-campaign:design"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:about-me:portafolio:contact:advertising:branding:digital-campaign:design"/>
+    <file name="require.js" crc="7928878" ref="index:about-me:portafolio:contact:advertising:branding:digital-campaign:design"/>
+    <file name="webpro.js" crc="4059564322" ref="contact:advertising:branding:digital-campaign:design"/>
+    <file name="form_check.php" crc="4020933626" ref="contact"/>
+    <file name="form_throttle.php" crc="4259590256" ref="contact"/>
+    <file name="form_process.php" crc="37464564" ref="contact"/>
+    <file name="form-u3175.php" crc="4160435950" ref="contact"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="advertising:branding:digital-campaign:design"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="advertising:branding:digital-campaign:design"/>
+    <file name="touchswipe.js" crc="4075097462" ref="advertising:branding:digital-campaign:design"/>
+  </folder>
+  <folder name="images">
+    <file name="waves-01.png" crc="293958384" seo="true" ref="index:contact:advertising:branding:digital-campaign:design">
+      <caption webpage="index" alt=""/>
+      <caption webpage="advertising" alt=""/>
+      <caption webpage="digital-campaign" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="branding" alt=""/>
+    </file>
+    <file name="small-logo.svg" crc="8307198" seo="true" ref="index:about-me:portafolio:contact:advertising:branding:digital-campaign:design">
+      <caption webpage="advertising" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="branding" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="digital-campaign" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="small logo_poster_.png" crc="4016911440" ref="index"/>
+    <file name="waves-05.png" crc="4130982482" seo="true" ref="index:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="waves-03.png" crc="4223116724" seo="true" ref="about-me:advertising:branding:digital-campaign:design">
+      <caption webpage="advertising" alt=""/>
+      <caption webpage="digital-campaign" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="branding" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="30440652_1919279891415708_5003263280634920960_o.jpg" crc="3995774228" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="007-female-graduate-student.svg" crc="357303531" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="007-female-graduate-student_poster_.png" crc="3955825222" ref="about-me"/>
+    <file name="006-diploma.svg" crc="4246225392" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="006-diploma_poster_.png" crc="4163538860" ref="about-me"/>
+    <file name="logoipp.svg" crc="3858903415" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="logoipp_poster_.png" crc="251274303" ref="about-me"/>
+    <file name="003-adobe-illustrator.svg" crc="507376318" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="003-adobe-illustrator_poster_.png" crc="433918527" ref="about-me"/>
+    <file name="004-adobe-photoshop-logo.svg" crc="3846981567" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="004-adobe-photoshop-logo_poster_.png" crc="199480913" ref="about-me"/>
+    <file name="002-adobe-indesign.svg" crc="230651379" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="002-adobe-indesign_poster_.png" crc="95541856" ref="about-me"/>
+    <file name="001-pdf-file-format-symbol.svg" crc="43953695" seo="true" ref="about-me:contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="001-pdf-file-format-symbol_poster_.png" crc="4002382172" ref="about-me"/>
+    <file name="008-partum-logo.svg" crc="4292987612" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="008-partum-logo_poster_.png" crc="384756754" ref="about-me"/>
+    <file name="waves-06.png" crc="3813689790" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="tarjetas_vf_c_rgb-02-crop-u3385.png" crc="26033953" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="waves-04.png" crc="171386123" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="002-road-ad.svg" crc="200578899" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="002-road-ad_poster_.png" crc="4231985392" ref="portafolio"/>
+    <file name="devices.svg" crc="40123984" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="devices_poster_.png" crc="449687573" ref="portafolio"/>
+    <file name="branding.svg" crc="4069219714" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="branding_poster_.png" crc="3925899037" ref="portafolio"/>
+    <file name="001-computer-graphic.svg" crc="490328918" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="001-computer-graphic_poster_.png" crc="4245178095" ref="portafolio"/>
+    <file name="celphone.svg" crc="325225441" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="celphone_poster_.png" crc="4292211182" ref="contact"/>
+    <file name="homephone.svg" crc="3884304153" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="homephone_poster_.png" crc="75807685" ref="contact"/>
+    <file name="mail.svg" crc="3813729072" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="mail_poster_.png" crc="259419435" ref="contact"/>
+    <file name="1-01.jpg" crc="4127632462" seo="true" ref="advertising">
+      <caption webpage="advertising" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="advertising:branding:digital-campaign:design"/>
+    <file name="2-01.jpg" crc="3942008194" seo="true" ref="advertising">
+      <caption webpage="advertising" alt=""/>
+    </file>
+    <file name="fj piezas-01.jpg" crc="451177630" seo="true" ref="advertising">
+      <caption webpage="advertising" alt=""/>
+    </file>
+    <file name="opalad2-crop-u3488.jpg" crc="476844952" seo="true" ref="advertising">
+      <caption webpage="advertising" alt=""/>
+    </file>
+    <file name="durex-01.jpg" crc="471071497" seo="true" ref="advertising">
+      <caption webpage="advertising" alt=""/>
+    </file>
+    <file name="uchucuta.jpg" crc="3982212059" seo="true" ref="advertising">
+      <caption webpage="advertising" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="advertising:branding:digital-campaign:design"/>
+    <file name="15stickers-03-crop-u2176.jpg" crc="314560377" seo="true" ref="branding">
+      <caption webpage="branding" alt=""/>
+    </file>
+    <file name="beer_bottle_mockup_by_marcinjarka-crop-u2203.jpg" crc="207088401" seo="true" ref="branding">
+      <caption webpage="branding" alt=""/>
+    </file>
+    <file name="mockup1-crop-u2230.png" crc="3782499408" seo="true" ref="branding">
+      <caption webpage="branding" alt=""/>
+    </file>
+    <file name="mockup2-crop-u2257.jpg" crc="236803743" seo="true" ref="branding">
+      <caption webpage="branding" alt=""/>
+    </file>
+    <file name="mockup1q-crop-u2311.png" crc="10800902" seo="true" ref="branding">
+      <caption webpage="branding" alt=""/>
+    </file>
+    <file name="cards2.jpg" crc="3918336094" seo="true" ref="branding">
+      <caption webpage="branding" alt=""/>
+    </file>
+    <file name="lp5.jpg" crc="3846103669" seo="true" ref="digital-campaign">
+      <caption webpage="digital-campaign" alt=""/>
+    </file>
+    <file name="lp6.jpg" crc="308976833" seo="true" ref="digital-campaign">
+      <caption webpage="digital-campaign" alt=""/>
+    </file>
+    <file name="lp7.jpg" crc="201095759" seo="true" ref="digital-campaign">
+      <caption webpage="digital-campaign" alt=""/>
+    </file>
+    <file name="lp8.jpg" crc="437389237" seo="true" ref="digital-campaign">
+      <caption webpage="digital-campaign" alt=""/>
+    </file>
+    <file name="la pastelería mockup-01-crop-u2962.png" crc="350352284" seo="true" ref="digital-campaign">
+      <caption webpage="digital-campaign" alt=""/>
+    </file>
+    <file name="20.jpg" crc="3897398443" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="iphone x 11.jpg" crc="136556270" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="14.jpg" crc="4144082943" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="iphone x 22.jpg" crc="419174763" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="24.jpg" crc="3950164423" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="iphone x 33.jpg" crc="4177511164" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="372623723" seo="true" mt="1531257187695" redirect="true"/>
+  <file name="about-me.html" crc="3947709759" seo="true" mt="1531258442984" redirect="true"/>
+  <file name="portafolio.html" crc="4260190917" seo="true" mt="1531257112626" redirect="true"/>
+  <file name="contact.html" crc="46860133" seo="true" mt="1531255128138" redirect="true"/>
+  <file name="advertising.html" crc="4144411105" seo="true" mt="1531258737585" redirect="true"/>
+  <file name="branding.html" crc="3948909385" seo="true" mt="1531258535276" redirect="true"/>
+  <file name="digital-campaign.html" crc="146023378" seo="true" mt="1531258490743" redirect="true"/>
+  <file name="design.html" crc="4235491449" seo="true" mt="1531258495556" redirect="true"/>
+</manifest>
